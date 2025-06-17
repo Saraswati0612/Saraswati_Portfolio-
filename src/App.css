@@ -1011,11 +1011,21 @@ section {
   margin-top: 5px;
 }
 
+/* Light mode: style only the contact form button */
 .contact-form-grid .btn-primary {
-  grid-column: 1 / -1;
-  justify-self: center;
-  width: 200px;
+  background: #000;
+  color: #fff;
+  border: 2px solid #000;
+  width: 100%;
 }
+
+/* Dark mode: style only the contact form button */
+.dark .contact-form-grid .btn-primary {
+  background: rgba(255, 255, 255, 0.2);
+  color: #fff;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+}
+
 
 /* Mobile contact form adjustments */
 @media (max-width: 768px) {
@@ -1029,8 +1039,10 @@ section {
   }
   
   .contact-form-grid .btn-primary {
-    width: 100%;
-  }
+  background-color: #4d4b4b; 
+  color: #fff;            
+  border-color: #000;    
+}
 }
 
 /* ==============  Contact  ============== */
