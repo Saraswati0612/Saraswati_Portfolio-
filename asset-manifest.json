@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Saraswati_Portfolio-/static/css/main.463568e4.css",
+    "main.js": "/Saraswati_Portfolio-/static/js/main.05d88499.js",
+    "static/js/453.acca0757.chunk.js": "/Saraswati_Portfolio-/static/js/453.acca0757.chunk.js",
+    "index.html": "/Saraswati_Portfolio-/index.html",
+    "main.463568e4.css.map": "/Saraswati_Portfolio-/static/css/main.463568e4.css.map",
+    "main.05d88499.js.map": "/Saraswati_Portfolio-/static/js/main.05d88499.js.map",
+    "453.acca0757.chunk.js.map": "/Saraswati_Portfolio-/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.463568e4.css",
+    "static/js/main.05d88499.js"
+  ]
+}
