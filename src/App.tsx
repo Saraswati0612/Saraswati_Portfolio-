@@ -292,7 +292,7 @@ const Skills: React.FC<SkillsProps> = ({ darkMode }) => {
           {skills.map(({ name, icon }) => (
             <div key={name} className="skill-card">
               <div className="skill-icon">
-                <img src={`/assets/skills/${icon}`} alt={name} />
+                <img src={`${process.env.PUBLIC_URL}/assets/skills/${icon}`} alt={name} />
               </div>
               <h3 className="skill-name">{name}</h3>
             </div>
