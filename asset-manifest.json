@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Saraswati_Portfolio-/static/css/main.463568e4.css",
+    "main.css": "/Saraswati_Portfolio-/static/css/main.4826f405.css",
     "main.js": "/Saraswati_Portfolio-/static/js/main.ff68fe56.js",
     "static/js/453.acca0757.chunk.js": "/Saraswati_Portfolio-/static/js/453.acca0757.chunk.js",
     "index.html": "/Saraswati_Portfolio-/index.html",
-    "main.463568e4.css.map": "/Saraswati_Portfolio-/static/css/main.463568e4.css.map",
+    "main.4826f405.css.map": "/Saraswati_Portfolio-/static/css/main.4826f405.css.map",
     "main.ff68fe56.js.map": "/Saraswati_Portfolio-/static/js/main.ff68fe56.js.map",
     "453.acca0757.chunk.js.map": "/Saraswati_Portfolio-/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.463568e4.css",
+    "static/css/main.4826f405.css",
     "static/js/main.ff68fe56.js"
   ]
 }
