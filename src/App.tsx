@@ -369,12 +369,12 @@ const Projects: React.FC<ProjectsProps> = ({ darkMode }) => {
 
   const projects = [
     {
-      title: 'Cosmetic E-Commerce Website',
-      description: 'A responsive e-commerce platform built with ReactJS, featuring search, categories, deals, and brands. Utilized React Hooks for interactive UI components.',
+      title: 'Todo List Website',
+      description: 'A responsive and interactive Todo app that allows users to add, edit, delete, search, and share tasks with others in real-time, enhancing productivity and collaboration.',
       tech: ['ReactJS', 'JavaScript', 'HTML/CSS'],
-      category: 'Frontend',
-      image: '🛍️',
-      features: ['Responsive Design', 'Search Functionality', 'Interactive UI'],
+      category: ['Frontend', 'Backend'],
+      image: '✅',
+      features: ['Responsive Design', 'Share task list', 'Task add/edit/delete', 'Interactive UI'],
       link: '#!' // TODO: Replace with actual project link (e.g., GitHub or live demo)
     },
     {
@@ -597,16 +597,16 @@ const Contact: React.FC<ContactProps> = ({ darkMode }) => {
     {
       icon: Github,
       label: 'GitHub',
-      value: 'https://github.com/saraswati-thorat', // TODO: Update with your GitHub profile
+      value: 'https://github.com/Saraswati0612', // TODO: Update with your GitHub profile
       displayValue: 'View Profile',
-      action: () => window.open('https://github.com/saraswati-thorat', '_blank')
+      action: () => window.open('https://github.com/Saraswati0612', '_blank')
     },
     {
       icon: Linkedin,
       label: 'LinkedIn',
-      value: 'https://linkedin.com/in/saraswati-thorat', // TODO: Update with your LinkedIn profile
+      value: 'https://www.linkedin.com/in/saraswati-thorat-0b0b922b5/', // TODO: Update with your LinkedIn profile
       displayValue: 'View Profile',
-      action: () => window.open('https://linkedin.com/in/saraswati-thorat', '_blank')
+      action: () => window.open('https://www.linkedin.com/in/saraswati-thorat-0b0b922b5/', '_blank')
     }
   ];
 
